@@ -1,0 +1,5 @@
+Model,Accuracy
+Logistic Regression (Baseline),0.4617
+Random Forest Classifier,0.4522
+Random Forest Classifier (Balanced),0.4755
+Gradient Boosting Classifier,0.47
